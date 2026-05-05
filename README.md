@@ -13,7 +13,7 @@
 ---
 
 ## 📸 Preview
-<img width="1919" height="910" alt="Screenshot 2026-05-05 192630" src="https://github.com/user-attachments/assets/530d88bf-c24c-4a53-961c-541cf8460bd5" />
+<img width="1919" height="910" alt="Screenshot 2026-05-05 192630" src="https://github.com/user-attachments/assets/530d88bf-c24c-4a53-961c-541cf8460bd5" /> <br>
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/96071cef-724c-406e-b782-62959a1c1176" />
 
 
